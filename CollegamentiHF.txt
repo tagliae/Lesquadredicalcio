@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Collegamenti </title>
+</head>
+<body>
+<h1>Collegamenti ad un sito web </h1>
+<br><br><br>
+<p align="justify">
+Il risultato della perturbazione in arrivo dal nord Atlantico produrra un incertezza nei prossimi giorni delle condizioni meteo. Per maggiori informazioni <a href="https://www.ilmeteo.it/" target="_blank"> CLICCA QUI </a>
+</p>
+<br><br><br>
+<h2>Collegamenti ad una pagina web </h2>
+<p align="justify">
+<font color="red">OFFERTA </font> ultimi posti per l'evento del nuovo film di <a href="garfield.html">Garfield
+</a> </p>
+</body>
+</html>
